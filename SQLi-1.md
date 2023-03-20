@@ -31,7 +31,7 @@ Connection: close
 
 Injection success based on errors
 
-![image]()
+![image](https://github.com/333123www/bug_report/blob/main/sql1.png)
 
 Payload2:id=1' and (select 2 from (select(sleep(10)))a)-- b
 
@@ -56,4 +56,4 @@ Connection: close
 
 Server response time is 10 seconds
 
-![image]()
+![image](https://github.com/333123www/bug_report/blob/main/sql2.png)
